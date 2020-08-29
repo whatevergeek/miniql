@@ -80,7 +80,7 @@ GraphQL is awesome, but sometimes the following can be annoying...
 
 # Features
 
-- The query language is JSON and can easily be sent over the weire.
+- The query language is JSON and can easily be sent over the wire.
 - The results are JSON and can easiy be received over the wire.
 - MiniQL works in both Node.js and the browser.
     - MiniQL can potentially work in other programming languages, if someone wants to create an implementation for their own fav language.
